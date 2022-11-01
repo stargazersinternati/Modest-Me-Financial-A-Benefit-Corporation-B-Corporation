@@ -10,7 +10,7 @@
 <p>Modest Me Financial, A Benefit Corporation originally started as a Bitcoin based ideology
 with a Purpose for Economic and Business Development.
 It became official October 26th 2017 as a new and personal venture to create and provide a platform
-that could address Socio-Economic issues by integrating mundane activities with Tech.
+that could address Socio-Economic issues by integrating mundane activities with Innovative Tech.
 
 <p>Visit Website Below:</p> 
 <a href="https://modestmefinancial.square.site/" rel="external" title="Momefi">Modest Me Financial, A Benefit Corporation 
